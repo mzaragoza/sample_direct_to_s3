@@ -1,0 +1,7 @@
+#S3
+S3_KEY: 'xxxxxxxxxxxxxxxxxx'
+S3_SECRET: 'xxxxxxxxxxxxxxxxx'
+S3_REGION: 'xxxxxxxxxxx'
+S3_ASSET_URL: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+S3_BUCKET_NAME: 'xxxxxxxxxxxxxx'
+
